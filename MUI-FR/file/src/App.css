@@ -1,0 +1,19 @@
+h2{
+  font-style:unset;
+  background-color: rgb(10, 14, 14);
+  color: aliceblue;
+}
+h1{
+  background-color: blue;
+}
+b{
+  color: rgb(80, 7, 237);
+  
+}
+.read{
+  background-color: rgb(13, 24, 10);
+}
+strong{
+  color: rgb(227, 14, 127);
+}
+
